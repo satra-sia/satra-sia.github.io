@@ -1,0 +1,129 @@
+body{
+    background-color:rgb(1, 5, 20);
+    font-family:'Orbitron';
+}
+
+header{
+    position: fixed;
+    z-index: 1;
+    display: block;
+    background-color: rgb(1, 5, 20, 50%);
+    width: 100%;
+    top: 0;
+}
+
+li{
+    display: inline-block;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(255, 0, 212);
+}
+
+a{
+    color:rgb(255, 0, 212);
+}
+
+a:visited{
+    color: rgb(255, 0, 212);
+}
+
+main{
+    padding-top: 80px;
+}
+
+h1{
+    color: rgb(255, 0, 212);
+    font-weight: bold;
+    font-size: 85px;
+    text-align:center;
+}
+
+.intro{
+    color:rgb(255, 0, 212);
+    text-align: center;
+    padding: 0 25%;
+}
+
+h2{
+    padding: 50px 50px 0px 50px;
+    color: rgb(255, 0, 212);
+}
+
+.articlesintro{
+    color:rgb(255, 0, 212);
+    width: 50%;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.row1{
+    display: inline-block;
+}
+
+.row2{
+    display: inline-block;
+}
+
+.row3{
+    display: inline-block;
+}
+
+.articles{
+    display: inline-block;
+    width: 930px;
+    text-align:center;
+    padding:0 16.6%;
+}
+
+img{
+    width:300px;
+}
+
+.column{
+    float: left;
+    width: 33.3%;
+    
+}
+
+.column2{
+    float: left;
+    width: 33.3%;
+    
+}
+
+.column3{
+    float: left;
+    width: 33.3%;
+   
+}
+
+
+.row4{
+    display:block;
+}
+.row5{
+    display:block;
+}
+
+span{
+    display:inline-block;
+    padding: 10px 50px;
+    
+}
+
+.poems{
+    font-size: 30px;
+    text-align: center;
+    border-style: 2px solid rgb(255, 0, 212);
+    display:block;
+}
+
+
+
+.poetryintro{
+    color:rgb(255, 0, 212);
+    width: 50%;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}

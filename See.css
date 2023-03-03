@@ -1,0 +1,78 @@
+body{
+    background-color:rgb(56, 56, 56);
+    font-family: 'Orbitron';
+    color:gold;
+}
+
+header{
+    position: fixed;
+    z-index: 1;
+    display: block;
+    background-color: rgb(56, 56, 56, 50%);
+    width: 100%;
+    top: 0;
+}
+li{
+    display: inline-block;
+    padding: 35px 50px;
+    font-size: 20px;
+    color: gold;
+}
+a:visited{
+    color: gold;
+}
+
+a{
+    color:gold;
+}
+
+main{
+    padding-top: 80px;
+}
+
+h1{
+    color: gold;
+    font-weight: bold;
+    font-size: 85px;
+    text-align:center;
+}
+
+#intro{
+    text-align:center;
+    padding: 10px 360px 50px 360px;
+}
+
+h2{
+    padding-left:50px;
+}
+
+.depressionreel{
+    padding-left:50px;
+    width: 40%;
+}
+
+img{
+    width: 20%;
+    padding:10px;
+}
+
+.dr{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.row1, .row2, .row3{
+    display: inline-block;
+    text-align: center;
+}
+
+.col1, .col2, .col3{
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.smd{
+    padding-left: 40px;
+}
+

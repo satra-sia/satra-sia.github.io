@@ -1,0 +1,188 @@
+body{
+    font-family: 'Orbitron';
+}
+
+.problems{
+    color:lavender;
+    background-color:rgb(90, 23, 77);
+}
+
+.africom{
+    color: red;
+    background-color: rgb(35, 32, 32);
+}
+
+.disney{
+    color: aliceblue;
+    background-color: rgb(27, 75, 221);
+}
+
+.dune{
+    color:rgb(7, 76, 27);
+    background-color: rgb(255, 244, 195);
+}
+
+.kawaii{
+    color:rgb(94, 0, 170);
+    background-color: rgb(251, 169, 235);
+}
+
+.jazz{
+    color:rgb(248, 197, 134);
+    background-color: rgb(54, 28, 4);
+
+}
+
+.magical{
+    color:rgb(255, 0, 212);
+    background-color: rgb(1, 5, 20);
+
+}
+
+.marvel{
+    color:rgb(43, 43, 159);
+    background-color: rgb(169, 218, 251);
+}
+
+.natural{
+    color:whitesmoke;
+    background-color: rgb(178, 34, 34);
+
+}
+
+header{
+    position: fixed;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    top: 0;
+    
+}
+
+.rap{
+    background-color: rgb(90, 23, 77, 50%);
+}
+.africa{
+    background-color: rgb(35, 32, 32, 50%);
+}
+.diversity{
+    background-color: rgb(27, 75, 221, 50%);
+}
+.zendaya{
+    background-color: rgb(255, 244, 195, 50%);
+}
+.colonisers{
+    background-color: rgb(251, 169, 235, 50%);
+}
+.orleans{
+    background-color: rgb(54, 28, 4, 50%);
+
+}
+.negro{
+    background-color: rgb(1, 5, 20, 50%);
+
+}
+.manipulated{
+    background-color: rgb(169, 218, 251, 50%);
+}
+.hair{
+    background-color: rgb(178, 34, 34, 50%);
+
+}
+
+li{
+    display: inline-block;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.lyrics{
+    color:lavender;
+}
+.lyrics:visited{
+    color:lavender;
+}
+
+.us{
+    color: red;
+}
+.us:visited{
+    color: red;
+}
+
+.dilemma{
+    color: aliceblue;
+}
+.dilemma:visited{
+    color: aliceblue;
+}
+
+.atreides{
+    color:rgb(7, 76, 27);
+}
+.atreides:visited{
+    color:rgb(7, 76, 27);
+}
+
+.japan{
+    color:rgb(94, 0, 170);
+}
+.japan:visited{
+    color:rgb(94, 0, 170);
+}
+
+.bechet{
+    color:rgb(248, 197, 134)
+}
+.bechet:visited{
+    color:rgb(248, 197, 134)
+
+}
+
+.film{
+    color:rgb(255, 0, 212);
+}
+.film:visited{
+    color:rgb(255, 0, 212);
+}
+
+.propaganda{
+    color:rgb(43, 43, 159);
+}
+.propaganda:visited{
+    color:rgb(43, 43, 159); 
+}
+
+.care{
+    color:whitesmoke;
+}
+.care:visited{
+    color:whitesmoke;
+}
+
+
+
+main{
+    padding-top: 80px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 85px;
+    text-align:center;
+}
+
+h2{
+    padding: 0 50px;
+}
+p{
+    padding: 0 50px;
+}
+
+img{
+    text-align:center;
+    width:50%;
+    padding: 5% 25%;
+}
